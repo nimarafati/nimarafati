@@ -19,31 +19,22 @@ Hi,I'm Nima Rafati🙌, a Bioinformatician. I love searching for patterns in dat
 
 **Talking about Personal Stuffs:**
 
-- 🔭 I’m currently Intern at CodeCrunch.
-- 🌱 I’m currently learning Angular.
-- 👯 Part of Developer Community.
-- 💬 Ask me about anything , Would love to answer them.✌
-- 📫 How to reach me: Any of the Social-Media Platform 
-- ⚡ Check out my recent [Blogs](https://medium.com/@saketprag322)
-- 📝[Portfolio](https://sakigo9.github.io/MyPortfolio/)
-- ✨ I can draw too.[ArtGallery](https://www.instagram.com/finding_my.way/)
-
-
-
-**Community**
-- Google Developer Group Bengaluru
-- HackClub NMIT
-- Tensorflow Community Bengaluru
-- Girlscript Foundation
-- Coding Ninja
+- 🔭 I am working as a research staff at National Bioinformatician Infrastructure Sweden, Science for Life laboratory
+- 👯 Part of a big group of bioinformatician at NBIS where I have a chance to interact with highly skilled people and get involved in big projects.  
+- 💬 Ask me about:
+  - Genome analysis
+  - Transcriptome/Genome assembly
+  - GWAS
+  - Transcriptome analysis
+  - Structural variation analysis
+  - Darks side of the genome; complex structure of genome (e.g. sex determination region in Atlantic herring, Skeletal atavism in Shetland ponies,...) 
+- ⚡ Check out my recent [Blogs](https://seqexplorer.wordpress.com/)
 
 **Languages and Tools:**
 
-
+:octocat:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-![Sakigo's github stats](https://github-readme-stats.vercel.app/api?username=sakigo9&show_icons=true&hide_border=true)
+![Nima's github stats](https://github-readme-stats.vercel.app/api?username=nimarafati&show_icons=true&hide_border=true)
