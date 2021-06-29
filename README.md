@@ -28,7 +28,7 @@ Hi,I'm Nima Rafati🙌, a Bioinformatician. I love searching for patterns in dat
   - Transcriptome analysis
   - Structural variation analysis
   - Darks side of the genome; complex structure of genome (e.g. sex determination region in Atlantic herring, Skeletal atavism in Shetland ponies,...) 
-- ⚡ Check out my recent [Blogs](https://seqexplorer.wordpress.com/)
+- ⚡ Check out my recent [Blogs]https://mytoolboxinbioinformatics.wordpress.com/blog-2/)
 
 **Languages and Tools:**
 
