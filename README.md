@@ -13,7 +13,7 @@
 
 <br />
 
-Hi,I'm Nima Rafati🙌, a Bioinformatician. I love searching for patterns in data which roots in my interest in biology and music 
+Hi,I'm Nima Rafati🙌, a Bioinformatics data scientist. I love searching for patterns in data which roots in my interest in biology and music 
 
 
 
