@@ -26,6 +26,7 @@ Hi,I'm Nima Rafati🙌, a Bioinformatics data scientist. I love searching for pa
   - Transcriptome/Genome assembly
   - GWAS
   - scRNASeq / RNASeq analysis
+  - Methylation
   - Structural variation analysis
   - Darks side of the genome; complex structure of genome (e.g. sex determination region in Atlantic herring, Skeletal atavism in Shetland ponies,...) 
 - ⚡ Check out my recent [Blogs](https://mytoolboxinbioinformatics.wordpress.com/blog-2/)
