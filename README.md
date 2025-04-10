@@ -1,4 +1,4 @@
-### Hi there 👋 I am Nima
+### Hi there 👋 I am not Nemo (the fish) but Nima! 
 
 <br/>
 
